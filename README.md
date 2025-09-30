@@ -16,7 +16,9 @@
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💻 Visit my [Portfolio](https://killerdawgg00.github.io) for more details about me.
+- 💻 Visit my [Portfolio](https://adjei-kelvin-ankamah.vercel.app)
+
+Please go check out my personal website.)) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
