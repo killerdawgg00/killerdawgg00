@@ -3,7 +3,7 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="[(https://res.cloudinary.com/dldl8ikep/image/upload/v1787335301/Bleach_bqtrpf.png)">
+  <img align="right" width="40%" src="https://collection.cloudinary.com/dldl8ikep/a08df135408e2d5572a1e6e8f0d1848a">
 </div>
 
 <!--Header Name-->
