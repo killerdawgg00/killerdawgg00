@@ -3,7 +3,7 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="40%" src="[https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png](https://res.cloudinary.com/dldl8ikep/image/upload/v1787335301/Bleach_bqtrpf.png)">
 </div>
 
 <!--Header Name-->
